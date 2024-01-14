@@ -79,6 +79,7 @@ body {
   font-family: var(--font-body);
   font-size: var(--fontSize-1);
   color: var(--color-text);
+  background-color: #e9e9e9;
 }
 
 footer {
@@ -179,6 +180,10 @@ ul li,
 ol li {
   padding-left: var(--spacing-0);
   margin-bottom: calc(var(--spacing-8) / 2);
+}
+
+li :hover {
+  background-color: #e3e3e3;
 }
 
 li > p {
