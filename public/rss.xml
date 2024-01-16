@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0"><channel><title><![CDATA[Gatsby Starter Blog RSS Feed]]></title><description><![CDATA[Gatsby Starter Blog RSS Feed]]></description><link>http://github.com/dylang/node-rss</link><generator>GatsbyJS</generator><lastBuildDate>Sun, 14 Jan 2024 06:39:03 GMT</lastBuildDate><item><title><![CDATA[23 roast!]]></title><description><![CDATA[Imagine Llama yawaning Yawing Llama
+created with fal.ai The Scared Llama appeares Default notion urls have a very interesting naming…]]></description><link>null/23-roast/</link><guid isPermaLink="false">null/23-roast/</guid><pubDate>Thu, 04 Jan 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Imagine Llama yawaning&lt;/p&gt;
+&lt;p&gt;&lt;img src=&quot;./llama.png&quot; alt=&quot;Yawing Llama&quot;&gt;
+&lt;em&gt;created with &lt;a href=&quot;https://fal.ai/&quot;&gt;fal.ai&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h5&gt;The Scared Llama appeares&lt;/h5&gt;
+&lt;p&gt;Default &lt;a href=&quot;https://notion.so&quot;&gt;notion&lt;/a&gt; urls have a very interesting naming convention. They use two unrealated words, randomly I guess, and somehow it makes perfect sense. That&apos;s what happened when I published a page back in November. That&apos;s how the Scared Llama appeared.&lt;/p&gt;
+&lt;h5&gt;Other randomest names that I could find as notion urls&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;enormous-terrier&lt;/li&gt;
+&lt;li&gt;(will upadate this list as I recall)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That&apos;s all for now, I&apos;m sure I&apos;ll try to write more interesting things in the future.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Using MDX to write this, still trying to get the hang of the formating&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded></item><item><title><![CDATA[Why Scared Llama?]]></title><description><![CDATA[Imagine Llama yawaning 
+created with fal.ai The Scared Llama appeares Default notion urls have a very interesting naming convention. They…]]></description><link>null/yawning-llama/</link><guid isPermaLink="false">null/yawning-llama/</guid><pubDate>Mon, 01 Jan 2024 00:00:00 GMT</pubDate><content:encoded>&lt;p&gt;Imagine Llama yawaning&lt;/p&gt;
+&lt;p&gt;&lt;span
+      class=&quot;gatsby-resp-image-wrapper&quot;
+      style=&quot;position: relative; display: block; margin-left: auto; margin-right: auto; max-width: 630px; &quot;
+    &gt;
+      &lt;a
+    class=&quot;gatsby-resp-image-link&quot;
+    href=&quot;/static/487c969510233dbd8861ba39f54ae1c2/2bef9/llama.png&quot;
+    style=&quot;display: block&quot;
+    target=&quot;_blank&quot;
+    rel=&quot;noopener&quot;
+  &gt;
+    &lt;span
+    class=&quot;gatsby-resp-image-background-image&quot;
+    style=&quot;padding-bottom: 100%; position: relative; bottom: 0; left: 0; background-image: url(&apos;data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABQAAAAUCAIAAAAC64paAAAACXBIWXMAAAsTAAALEwEAmpwYAAACjElEQVR42n1UW1PaQBjll/YH9LUzHR/ajg9arWLVGW4KagsRwyVkN4lQKEENoigFZAnBoIwmhBCxnc50mN6eGqKBEK0zZ3a+JHv2fHv2ZB1kvQMMkOY4BJLH9QOM5jvMB3m8BN9hWn0odO9ejiaMaA/J5qq8AmqS07sd5BAl9MjJjkwZmbSQTVkkQ6EXPSi7p6d3YhSWKwNBTSC75iPKd+SEoOFUsl1iMe+GN7G3e9Ena5JN34BsJ8O6TNS7zKfUDzG3E4nGah3Idx5udcSfIFO8gpev2RQ1aHMgexBHCtRt19tGVufuZSeVkUwJKlYQiiz18+owwqT1LTBNlRaGgMYEYDkaO5luath+tcyCv1o5ScPQAcI4FOIQluf1LkCj+3/DdOVmb5s7q7DEL7UinVJCgW5Vcs1SBh2lkkkmdizARteaCMc4N8O2u+GiWMiAgXRy28rzmWCJXDslfN8vD9v7uM8XgOItQJKdbLrdiSFlF0R/KycDtXocc5cS3vT6W6mSaR1Rno8ELfYBkkd6E2RghARni7t+563I5XF3O+PPbc7X09vXNTZS4PWvI9vs52zwJerim3N2/iIXJvHQ0tzi8vNn8dCmLq4nDzTUp8h6nuD5zQYO4cJLuJfH65r31QvP2haNBWLJLNnQjLblRxKm11Szm7z8Gv/S8ryZCmePPmt/XCuuCFcOEOkIV6VbffJeWbb/VYmaFMydBejiaig1MzW9HCDd0f2Z1/OrH5il934/sRcttSGvTBh2r8wr8erVGiysbKXeeYjZ1bBzHS54E3Ou6KIPzLkirnAWyzf0oyaRbHXbzB3foZsqJfboIW6oc33UGFEzihu9hg3FeqU47JeL8Rs8AWs8/wF5IJ92HED/oQAAAABJRU5ErkJggg==&apos;); background-size: cover; display: block;&quot;
+  &gt;&lt;/span&gt;
+  &lt;img
+        class=&quot;gatsby-resp-image-image&quot;
+        alt=&quot;Yawing Llama&quot;
+        title=&quot;&quot;
+        src=&quot;/static/487c969510233dbd8861ba39f54ae1c2/f058b/llama.png&quot;
+        srcset=&quot;/static/487c969510233dbd8861ba39f54ae1c2/c26ae/llama.png 158w,
+/static/487c969510233dbd8861ba39f54ae1c2/6bdcf/llama.png 315w,
+/static/487c969510233dbd8861ba39f54ae1c2/f058b/llama.png 630w,
+/static/487c969510233dbd8861ba39f54ae1c2/40601/llama.png 945w,
+/static/487c969510233dbd8861ba39f54ae1c2/2bef9/llama.png 1024w&quot;
+        sizes=&quot;(max-width: 630px) 100vw, 630px&quot;
+        style=&quot;width:100%;height:100%;margin:0;vertical-align:middle;position:absolute;top:0;left:0;&quot;
+        loading=&quot;lazy&quot;
+        decoding=&quot;async&quot;
+      /&gt;
+  &lt;/a&gt;
+    &lt;/span&gt;
+&lt;em&gt;created with &lt;a href=&quot;https://fal.ai/&quot;&gt;fal.ai&lt;/a&gt;&lt;/em&gt;&lt;/p&gt;
+&lt;h5&gt;The Scared Llama appeares&lt;/h5&gt;
+&lt;p&gt;Default &lt;a href=&quot;https://notion.so&quot;&gt;notion&lt;/a&gt; urls have a very interesting naming convention. They use two unrealated words, randomly I guess, and somehow it makes perfect sense. That&apos;s what happened when I published a page back in November. That&apos;s how the Scared Llama appeared.&lt;/p&gt;
+&lt;h5&gt;Other randomest names that I could find as notion urls&lt;/h5&gt;
+&lt;ul&gt;
+&lt;li&gt;enormous-terrier&lt;/li&gt;
+&lt;li&gt;(will upadate this list as I recall)&lt;/li&gt;
+&lt;/ul&gt;
+&lt;p&gt;That&apos;s all for now, I&apos;m sure I&apos;ll try to write more interesting things in the future.&lt;/p&gt;
+&lt;p&gt;&lt;em&gt;&lt;strong&gt;Using MDX to write this, still trying to get the hang of the formating&lt;/strong&gt;&lt;/em&gt;&lt;/p&gt;</content:encoded></item></channel></rss>
